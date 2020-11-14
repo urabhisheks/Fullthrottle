@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Fullthrottle/static/css/main.ef6b3550.chunk.css",
+    "main.js": "/Fullthrottle/static/js/main.3ba616b8.chunk.js",
+    "main.js.map": "/Fullthrottle/static/js/main.3ba616b8.chunk.js.map",
+    "runtime-main.js": "/Fullthrottle/static/js/runtime-main.774ea4e8.js",
+    "runtime-main.js.map": "/Fullthrottle/static/js/runtime-main.774ea4e8.js.map",
+    "static/css/2.83342f34.chunk.css": "/Fullthrottle/static/css/2.83342f34.chunk.css",
+    "static/js/2.71517357.chunk.js": "/Fullthrottle/static/js/2.71517357.chunk.js",
+    "static/js/2.71517357.chunk.js.map": "/Fullthrottle/static/js/2.71517357.chunk.js.map",
+    "static/js/3.4a7dd504.chunk.js": "/Fullthrottle/static/js/3.4a7dd504.chunk.js",
+    "static/js/3.4a7dd504.chunk.js.map": "/Fullthrottle/static/js/3.4a7dd504.chunk.js.map",
+    "index.html": "/Fullthrottle/index.html",
+    "static/css/2.83342f34.chunk.css.map": "/Fullthrottle/static/css/2.83342f34.chunk.css.map",
+    "static/css/main.ef6b3550.chunk.css.map": "/Fullthrottle/static/css/main.ef6b3550.chunk.css.map",
+    "static/js/2.71517357.chunk.js.LICENSE.txt": "/Fullthrottle/static/js/2.71517357.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/Fullthrottle/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.774ea4e8.js",
+    "static/css/2.83342f34.chunk.css",
+    "static/js/2.71517357.chunk.js",
+    "static/css/main.ef6b3550.chunk.css",
+    "static/js/main.3ba616b8.chunk.js"
+  ]
+}
