@@ -1,0 +1,15 @@
+.body {
+  padding: 1rem;
+}
+.submit {
+  background: royalblue;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  height: 2rem;
+  width: 20rem;
+  color: white;
+  margin-left: 72vw;
+  margin-top: 1.5rem;
+  cursor: pointer;
+}
